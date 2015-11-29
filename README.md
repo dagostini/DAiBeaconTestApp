@@ -1,6 +1,8 @@
 DAiBeaconTestApp
 ================
 
+https://travis-ci.org/dagostini/DAiBeaconTestApp.svg?branch=master
+
 Testing iBeacon in background mode, and sending a request to the server while the app is in the background.
 
 This is a simple tutorial app, you can read more about it here:
