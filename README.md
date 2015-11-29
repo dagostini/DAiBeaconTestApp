@@ -1,4 +1,4 @@
-DAiBeaconTestApp
+DAiBeaconTestApp [![Build Status](https://travis-ci.org/dagostini/DAiBeaconTestApp.svg?branch=master)](https://travis-ci.org/dagostini/DAiBeaconTestApp)
 ================
 
 Testing iBeacon in background mode, and sending a request to the server while the app is in the background.
